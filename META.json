@@ -2,7 +2,7 @@
    "name": "planinstr",
    "abstract": "Measure planner duration",
    "description": "A planner hook to measure planner running time, mainly debug purpose",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "maintainer": "Hitoshi Harada",
    "license": "postgresql",
    "provides": {
