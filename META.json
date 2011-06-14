@@ -1,0 +1,25 @@
+{
+   "name": "planinstr",
+   "abstract": "Measure planner duration",
+   "description": "A planner hook to measure planner running time, mainly debug purpose",
+   "version": "0.0.1",
+   "maintainer": "Hitoshi Harada",
+   "license": "postgresql",
+   "provides": {
+      "planinstr": {
+         "abstract": "A short description",
+         "file": "sql/planinstr.sql",
+         "docfile": "doc/planinstr.md",
+         "version": "0.0.1"
+      }
+   },
+   "release_status": "unstable",
+
+   "generated_by": "The maintainer's name",
+
+
+   "meta-spec": {
+      "version": "1.0.0",
+      "url": "http://pgxn.org/meta/spec.txt"
+   }
+}
